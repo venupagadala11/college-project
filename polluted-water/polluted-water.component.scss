@@ -1,0 +1,34 @@
+.second-page
+{
+    background-image: url("../images/bg-image.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+    height: 100vh;
+}
+
+.danger
+{
+    text-align: center;
+    color: red;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.danger-desc
+{
+    font-size: 75px;
+    color:rgb(219, 105, 105);
+    text-align: center;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.purity-img
+{
+    width: 75px;
+    border-radius: 50%;
+    margin-left: 20px;
+}
